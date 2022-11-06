@@ -1,0 +1,18 @@
+body {
+    text-align: justify;
+    background-color: black;
+    color: blueviolet;
+}
+
+a {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+img {
+    object-fit: contain;
+}
+
+.image {
+    align-self: start;
+}
