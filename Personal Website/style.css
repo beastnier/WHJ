@@ -17,3 +17,12 @@ h1,h2,h3 {
     height: flex;
     width: flex;
 }
+
+.menu {
+    float: right;
+    cursor: pointer;
+}
+
+.link {
+    align-self: flex-end;
+}
