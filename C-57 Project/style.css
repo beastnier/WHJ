@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient( blueviolet, white);
+}
+
+h1,h2,h3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#image {
+    border-radius: 40%;
+    height: flex;
+    width: flex;
+}
