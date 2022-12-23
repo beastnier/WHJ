@@ -1,28 +1,12 @@
 body {
     text-align: center;
-    background-color: aquamarine;
+    margin: 0px;
+    background-image: url("Pictures/Background.jpg");
+    text-decoration-color: aqua;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-h1,h2,h3 {
-    color: aquamarine;
+a {
     text-decoration: none;
-}
-
-#welcome {
-    background: linear-gradient( blueviolet, aquamarine);
-}
-
-#image {
-    border-radius: 40%;
-    height: flex;
-    width: flex;
-}
-
-.menu {
-    float: right;
-    cursor: pointer;
-}
-
-.link {
-    align-self: flex-end;
+    text-decoration-color: aqua;
 }
